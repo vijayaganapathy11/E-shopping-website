@@ -8,7 +8,7 @@
 
 ## Screenshots
 
-[Add screenshots or images of your website here, showcasing different pages and features.]
+[]
 
 ## Contributing
 
@@ -16,13 +16,13 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 ## Credits
 
-- Created by [Your Name].
-- Product images from [Image Source].
-- Icons from [Icon Source].
+- Created by [Vijayaganapathy].
+- Product images from [Internet].
+- Icons from [Font Awesome].
 
 ## License
 
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [No] License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
