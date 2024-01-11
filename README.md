@@ -8,7 +8,9 @@
 
 ## Screenshots
 
-[]
+[Screenshots of the projects](screen1.png)
+[Screenshots of the projects](screen2.png)
+[Screenshots of the projects](screen3.png)
 
 ## Contributing
 
@@ -22,7 +24,7 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 ## License
 
-This project is licensed under the [No] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [vijayaganapathy] License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
